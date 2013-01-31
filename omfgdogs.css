@@ -4,11 +4,8 @@ background-image: URL(assets/omfgdogs.gif);
 
 p {
 position: fixed;
-right:30px;
-bottom: 15px;
-/*margin-left: 80%;
-margin-top: 54%;*/
-
+left:1000px;
+top:650px;
 }
 
 #showup {
